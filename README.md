@@ -1,5 +1,6 @@
 
 "Four years have passed in the blink of an eye."
 
-Just a general place to stick small projects and single files.
+Mostly a place to stick 'finished' files
+
 
