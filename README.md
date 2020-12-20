@@ -1,5 +1,11 @@
+##########
+HOME REPO
+##########
 
 "Four years have passed in the blink of an eye."
+
+Standalone files that are finished, for the momemt, are placed here. 
+
 
 Contents:
 
