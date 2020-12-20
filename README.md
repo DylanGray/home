@@ -2,12 +2,14 @@
 HOME REPO
 ##########
 
-"Four years have passed in the blink of an eye."
 
-Standalone files that are finished, for the momemt, are placed here. 
+Standalone files that are finished, for the momemt, are placed here. Mostly...
 
 
-Contents:
+########
+CONTENTS
+########
+
 
 DiceRollingGame -> Number guessing game: you select a die size and then guess the outcome. 
                    Repeats until player quite.
