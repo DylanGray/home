@@ -12,8 +12,8 @@ CONTENTS
 
 
 DiceRollingGame -> Number guessing game: you select a die size and then guess the outcome. 
-                   Repeats until player quite.
+                   Repeats until player quits.
 
 RoomExplorerGame -> text bases adventure game: visit rooms, collect ITEMS, talk to NPCS, and find the exit. 
-                    Ends on finding the 'boss'. map in /gamedev 
+                    Ends on finding the 'boss'. 
 
