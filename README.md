@@ -16,4 +16,7 @@ DiceRollingGame -> Number guessing game: you select a die size and then guess th
 
 RoomExplorerGame -> text bases adventure game: visit rooms, collect ITEMS, talk to NPCS, and find the exit. 
                     Ends on finding the 'boss'. 
-
+                   
+                   
+MovieWheel -> simple program to pick a movie to watch
+                   
