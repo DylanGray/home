@@ -3,7 +3,7 @@ HOME REPO
 ##########
 
 
-Standalone files that are finished, for the momemt, are placed here. Mostly...
+Standalone files for small projects and code that work. Mostly.
 
 
 ########
