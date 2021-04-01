@@ -3,7 +3,7 @@ HOME REPO
 ##########
 
 
-For small projects and code that works. Mostly.
+For small bits of Python code and Jupyter notebook projects.
 
 
 ########
